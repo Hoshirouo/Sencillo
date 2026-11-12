@@ -6,7 +6,7 @@ Prototipo funcional del proyecto final del curso **Interacción Humano Computado
 
 ## Probar el prototipo
 
-- **En línea:** https://hoshirouo.github.io/sencillo/ (requiere activar GitHub Pages, ver abajo)
+- **En línea:** https://hoshirouo.github.io/Sencillo/
 - **En tu computadora:** descarga `index.html` y ábrelo con Chrome o Edge.
 
 Usuarios de prueba (contraseña `demo1234`):
